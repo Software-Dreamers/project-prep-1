@@ -32,7 +32,7 @@ Seeing each others commits to see and have morning meeting do discuss problems a
 
 We will raise those concerns through slack or our morning meetings.
 
-Have a conversation with Rey about it once it reaches that point.
+Having a 3 strike rule, then have a conversation with Rey about it once it reaches the 3rd strike.
 
 ## Communication Plan
 
