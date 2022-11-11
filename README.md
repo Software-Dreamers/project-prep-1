@@ -55,3 +55,15 @@ We will ensure that we are creating a safe environment where everyone feels comf
 Communicate in Remo on what task we split into doing and have a discussion where we are, when we are stuck, and when we are complete.
 
 Github will be used is the project management tool.
+
+## Git Process
+
+HTML, CSS, JS will the be components on Github.
+
+We are all collaborators so we will have copies of the repos.
+
+The Git flow will be main and put everything on the staging branch with a new name and then each day have one branch per person merge our work by person.
+
+Have all group members review the PRs. Won't merge our own code. At the end of the day we will merge. Commnicate in remo when it is time to merge.
+
+https://docs.google.com/presentation/d/1AOwTromnQ4Y0HahpvBnlJIvuEeo4GtJlaJriUZ2sbMM/edit#slide=id.g2accd1c413_3_31
